@@ -1,6 +1,6 @@
 # jnife-admin
 
-> A Vue.js project  test1
+> A Vue.js project  test2
 
 ## Build Setup
 

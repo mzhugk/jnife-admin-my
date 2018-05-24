@@ -20,9 +20,10 @@
   body {
     margin: 0;
     padding: 0;
-    /*background: url(assets/bg1.jpg) center !important;
-          background-size: cover;*/
-  // background: #1F2D3D;从develop新建分支test并且pull
+    /*background: url(assets/bg1.jpg) center !important;*/
+          /*background-size: cover;*/
+    /*background: #1F2D3D;*/
+    /*测试2*/
     font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, SimSun, sans-serif;
     font-size: 14px;
     -webkit-font-smoothing: antialiased;
@@ -30,8 +31,8 @@
 
   #app {
     position: absolute;
-    top: 0px;
-    bottom: 0px;
+    top: 0;
+    bottom: 0;
     width: 100%;
   }
 

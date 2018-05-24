@@ -31,8 +31,8 @@
 
   #app {
     position: absolute;
-    top: 0;
-    bottom: 0;
+    top: 0px;
+    bottom: 0px;
     width: 100%;
   }
 

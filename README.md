@@ -1,11 +1,10 @@
 # jnife-admin
 
-> A Vue.js project  test1
-test4
+> A Vue.js project
+
 ## Build Setup
 
 ``` bash
-test88
 # install dependencies
 npm install
 

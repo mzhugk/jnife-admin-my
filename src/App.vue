@@ -22,7 +22,7 @@
     padding: 0;
     /*background: url(assets/bg1.jpg) center !important;
           background-size: cover;*/
-  // background: #1F2D3D;修改dev
+  // background: #1F2D3D;从develop新建分支test并且pull
     font-family: Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, SimSun, sans-serif;
     font-size: 14px;
     -webkit-font-smoothing: antialiased;

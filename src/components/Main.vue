@@ -1,6 +1,6 @@
 <template>
 	<section>
-    <h1>Welcome back! {{user}}1</h1>
+    <h1>Welcome back! {{user}}2</h1>
     <div id='example-3'>
       <input type="checkbox" id="jack" value="Jack1" v-model="checkedNames">
       <label for="jack">Jack</label>
